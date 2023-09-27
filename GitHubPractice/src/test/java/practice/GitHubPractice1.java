@@ -6,5 +6,6 @@ public class GitHubPractice1 {
 		
 		System.out.println("GitHub Practice");
 		System.out.println("Welcome to GitHub");
+		System.out.println("Changes done in github");
 	}
 }
